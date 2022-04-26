@@ -40,7 +40,7 @@ ead:
 
 authuser:
   refreshScope:
-    name: Murilo Abranches
+    name: Murilo
 
 management:
   endpoints:
