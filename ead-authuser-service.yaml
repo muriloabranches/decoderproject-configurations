@@ -20,6 +20,8 @@ spring:
   output:
     ansi:
       enabled: Always
+  application:
+    name: ead-authuser-service
 
 logging:
   level:
